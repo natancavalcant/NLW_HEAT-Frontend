@@ -1,4 +1,4 @@
-# NLW App - frontend 🚀:
+# NLW App - frontend 🚀
 
   Front da aplicação desenvolvida no NLW Heat da Rocketseat.
   
@@ -11,7 +11,7 @@
   yarn - para instalar as dependencias.
   yarn dev - inicia a aplicação. (OBS a api deve estar rodando para visualizar os dados).
 
-## Construído com 📚:
+## Construído com 📚
 
   Typescript - linguagem principal.
   React - Framework para desenvolver a aplicação.
