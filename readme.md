@@ -6,16 +6,16 @@
 
 ## Run App
 
-  Instalar o Nodejs e o yarn (pode utilizar o npm também).
-  configurar a url do github em context/auth.
-  yarn - para instalar as dependencias.
-  yarn dev - inicia a aplicação. (OBS a api deve estar rodando para visualizar os dados).
+  * Instalar o Nodejs e o yarn (pode utilizar o npm também).
+  * configurar a url do github em context/auth.
+  * yarn - para instalar as dependencias.
+  * yarn dev - inicia a aplicação. (OBS a api deve estar rodando para visualizar os dados).
 
 ## Construído com 📚
 
-  Typescript - linguagem principal.
-  React - Framework para desenvolver a aplicação.
-  Sass - pré-processador de estilos.
+  * Typescript - linguagem principal.
+  * React - Framework para desenvolver a aplicação.
+  * Sass - pré-processador de estilos.
 
 ## preview
 
