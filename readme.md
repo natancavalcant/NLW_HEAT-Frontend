@@ -19,8 +19,8 @@
 
 ## preview
 
-![alt text](https://github.com/natancavalcant/NLW_HEAT-Frontend/blob/main/assets/images/NLW_HEAT_1.png?raw=true)
-![alt text](https://github.com/natancavalcant/NLW_HEAT-Frontend/blob/main/assets/images/NLW_HEAT_2.png?raw=true)
+![alt text](https://github.com/natancavalcant/NLW_HEAT-Frontend/blob/main/src/assets/NLW_HEAT_1.png?raw=true)
+![alt text](https://github.com/natancavalcant/NLW_HEAT-Frontend/blob/main/src/assets/NLW_HEAT_2.png?raw=true)
 
 ## backend
 
